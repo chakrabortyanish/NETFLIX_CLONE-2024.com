@@ -1,4 +1,5 @@
 # NETFLIX CLONE
+https://chakrabortyanish.github.io/NETFLIX_CLONE-2024.com/<br>
 A simple Netflix homepage clone built with HTML, CSS, and JavaScript. This project emulates the look and feel of Netflix's popular streaming platform, including a responsive layout, and hover effects.<br>
 ## Demo
 ![f](https://github.com/user-attachments/assets/f957788e-c4f8-4f13-8776-52113470e1d3)<br>
@@ -8,19 +9,19 @@ A simple Netflix homepage clone built with HTML, CSS, and JavaScript. This proje
 ![kids](https://github.com/user-attachments/assets/342404f8-bec3-467b-99d5-920f21aa4aa2)<br>
 ![questions](https://github.com/user-attachments/assets/c4cddc73-62f6-432e-a8d3-359f3b687607)<br>
 ![footer](https://github.com/user-attachments/assets/2a7baf80-1b18-437d-8cef-d1e6ffbb95c0)<br>
-##📌 Features
+##📌 Features<br>
 Responsive Design: Works well on desktop, tablet, and mobile devices.<br>
 Custom Selector: this selector is builded by javascript. Its properly works and chose any one language.<br>
 ![customSelector](https://github.com/user-attachments/assets/88ac2d4a-a6cc-47cf-bab1-fcebd8194061)<br>
 
 Question: This is responsive. Click any on the question and answer will be display.
 
-##🛠️ Built With
+##🛠️ Built With<br>
 HTML5: For structuring the content.<br>
 CSS3: For styling, animations, and responsive layout.<br>
 JavaScript: For logic purpose and interactive UI elements.
 
-##Key Components
+##Key Components<br>
 Header Section:
 Contains the Netflix logo, custom selector and login button.<br>
 
