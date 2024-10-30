@@ -14,7 +14,9 @@ Responsive Design: Works well on desktop, tablet, and mobile devices.<br>
 Custom Selector: this selector is builded by javascript. Its properly works and chose any one language.<br>
 ![customSelector](https://github.com/user-attachments/assets/88ac2d4a-a6cc-47cf-bab1-fcebd8194061)<br>
 
-Question: This is responsive. Click any on the question and answer will be display.
+Question: This is responsive. Click on any of the question then answer will be display.<br>
+![answer](https://github.com/user-attachments/assets/dfc76c8a-1422-43e3-bbda-e9097eac95dc)<br>
+
 
 ##🛠️ Built With<br>
 HTML5: For structuring the content.<br>
