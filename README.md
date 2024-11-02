@@ -1,5 +1,5 @@
 # NETFLIX CLONE
-My site is live at: anishchakraborty2024.netlify.app<br>
+My site is live at: https://anishchakraborty2024.netlify.app/<br>
 A simple Netflix homepage clone built with HTML, CSS, and JavaScript. This project emulates the look and feel of Netflix's popular streaming platform, including a responsive layout, and hover effects.<br>
 ## Demo
 ![f](https://github.com/user-attachments/assets/f957788e-c4f8-4f13-8776-52113470e1d3)<br>
